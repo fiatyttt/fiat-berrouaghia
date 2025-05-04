@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Benflismotors</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            background-color: #f0f0f0;
+            padding: 20px;
+        }
+        h1 {
+            color: #333;
+        }
+        .links {
+            list-style-type: none;
+            padding: 0;
+        }
+        .links li {
+            margin: 10px 0;
+        }
+        a {
+            text-decoration: none;
+            color: #0066cc;
+            font-size: 18px;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+    <h1>مرحبًا بك في Benflismotors!</h1>
+    <ul class="links">
+        <li><a href="https://www.facebook.com/profile.php?id=61571713976241&locale=fr_FR">فيسبوك</a></li>
+        <li><a href="https://www.instagram.com/fiatopelberrouaghia/?fbclid=IwZXh0bgNhZW0CMTEAYnJpZBExS0lBbVZsOFQwaGJqNWRlaQEefekvTJS8bLuujaP1Q-2rJZ3MT1bE-05vI19jTxx7lBmQ7YUviYOAh8ybLTk_aem_bluL7vaiEstMTK9M402E8Q">إنستغرام</a></li>
+        <li><a href="https://www.tiktok.com/@fiat.opel.berrouaghia">تيك توك</a></li>
+        <li><a href="https://wa.me/0550325157">واتساب</a></li>
+        <li><a href="https://www.google.com/maps?q=4WV4+QV8,+BERROUAGHIA+Berrouaghia,+Algeria">الموقع: Berrouaghia, الجزائر</a></li>
+    </ul>
+</body>
+</html>
